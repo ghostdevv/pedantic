@@ -1,5 +1,6 @@
 {
 	"name": "@rlly/pedantic",
+	"description": "oxlint configuration",
 	"version": "0.1.1",
 	"type": "module",
 	"publishConfig": {
