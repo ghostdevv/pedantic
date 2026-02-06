@@ -1,0 +1,17 @@
+{
+	"$schema": "../node_modules/oxlint/configuration_schema.json",
+	"plugins": ["vitest"],
+	"rules": {
+		"vitest/require-local-test-context-for-concurrent-snapshots": "error",
+		"vitest/prefer-to-be-truthy": "warn",
+		"vitest/prefer-to-be-falsy": "warn",
+		"vitest/prefer-to-be-object": "warn",
+		"vitest/prefer-describe-function-title": "warn",
+		"vitest/no-import-node-test": "error",
+		"vitest/no-conditional-tests": "error",
+		"vitest/hoisted-apis-on-top": "warn",
+		"vitest/consistent-vitest-vi": "warn",
+		"jest/require-to-throw-message": "off",
+		"jest/valid-title": "off"
+	}
+}

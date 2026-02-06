@@ -1,0 +1,40 @@
+{
+	"name": "@rlly/pedantic",
+	"version": "0.1.0",
+	"type": "module",
+	"publishConfig": {
+		"access": "public"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ghostdevv/pedantic.git"
+	},
+	"files": [
+		"README.md",
+		"LICENSE",
+		"oxlint"
+	],
+	"license": "MIT",
+	"packageManager": "pnpm@10.28.2",
+	"engines": {
+		"node": "^24.0.0"
+	},
+	"devDependencies": {
+		"@e18e/eslint-plugin": "^0.1.4",
+		"oxlint": "^1.43.0",
+		"oxlint-tsgolint": "^0.11.4"
+	},
+	"peerDependencies": {
+		"@e18e/eslint-plugin": "^0.1.4",
+		"oxlint": "^1.43.0",
+		"oxlint-tsgolint": "^0.11.4"
+	},
+	"peerDependenciesMeta": {
+		"oxlint-tsgolint": {
+			"optional": true
+		},
+		"@e18e/eslint-plugin": {
+			"optional": true
+		}
+	}
+}
