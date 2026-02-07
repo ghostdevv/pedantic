@@ -120,7 +120,6 @@
 		"promise/catch-or-return": "error",
 		"promise/avoid-new": "warn",
 		"promise/always-return": ["warn", { "ignoreLastCallback": true }],
-		// non type aware
 		"typescript/prefer-ts-expect-error": "error",
 		"typescript/prefer-function-type": "warn",
 		"typescript/prefer-for-of": "warn",
@@ -138,8 +137,6 @@
 		"typescript/no-empty-interface": "warn",
 		"typescript/no-dynamic-delete": "error",
 		"typescript/no-confusing-non-null-assertion": "warn",
-		// "typescript/explicit-module-boundary-types": "warn",
-		// "typescript/explicit-function-return-type": "warn",
 		"typescript/consistent-type-imports": "warn",
 		"typescript/consistent-type-definitions": ["warn", "interface"],
 		"typescript/consistent-generic-constructors": [
