@@ -1,6 +1,26 @@
 # Changelog
 
 
+## v0.1.2
+
+[compare changes](https://github.com/ghostdevv/pedantic/compare/v0.1.1...v0.1.2)
+
+### 🚀 Enhancements
+
+- Configure jest rules ([ea30bd6](https://github.com/ghostdevv/pedantic/commit/ea30bd6))
+
+### 🩹 Fixes
+
+- Remove unused comments ([16a7b3f](https://github.com/ghostdevv/pedantic/commit/16a7b3f))
+
+### 📖 Documentation
+
+- Init ([f81bff0](https://github.com/ghostdevv/pedantic/commit/f81bff0))
+
+### ❤️ Contributors
+
+- Willow (GHOST) <git@willow.sh>
+
 ## v0.1.1
 
 
