@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.1.3
+
+[compare changes](https://github.com/ghostdevv/pedantic/compare/v0.1.2...v0.1.3)
+
+### 🩹 Fixes
+
+- Disable nested describe rule ([4b75cc1](https://github.com/ghostdevv/pedantic/commit/4b75cc1))
+
+### ❤️ Contributors
+
+- Willow (GHOST) <git@willow.sh>
+
 ## v0.1.2
 
 [compare changes](https://github.com/ghostdevv/pedantic/compare/v0.1.1...v0.1.2)
