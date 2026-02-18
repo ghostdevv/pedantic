@@ -86,7 +86,7 @@
 		"import/no-amd": "error",
 		"import/no-anonymous-default-export": ["error", { "allowObject": true }],
 		"import/no-commonjs": "warn",
-		"import/no-default-export": "warn",
+		"import/no-default-export": "off",
 		"import/no-dynamic-require": "warn",
 		"import/no-empty-named-blocks": "error",
 		"jsdoc/empty-tags": "error",
