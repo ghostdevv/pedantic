@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.4.1
+
+[compare changes](https://github.com/ghostdevv/pedantic/compare/v0.4.0...v0.4.1)
+
+### 🩹 Fixes
+
+- Disable jest/require-to-throw-message ([f2923e4](https://github.com/ghostdevv/pedantic/commit/f2923e4))
+
+### ❤️ Contributors
+
+- Willow (GHOST) <git@willow.sh>
+
 ## v0.4.0
 
 [compare changes](https://github.com/ghostdevv/pedantic/compare/v0.3.0...v0.4.0)
