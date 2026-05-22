@@ -1,6 +1,34 @@
 # Changelog
 
 
+## v0.4.0
+
+[compare changes](https://github.com/ghostdevv/pedantic/compare/v0.3.0...v0.4.0)
+
+### 🚀 Enhancements
+
+- ⚠️  Update peer deps ([e0859e2](https://github.com/ghostdevv/pedantic/commit/e0859e2))
+- ⚠️  Enable more e18e plugin rules ([2589bae](https://github.com/ghostdevv/pedantic/commit/2589bae))
+
+### 🩹 Fixes
+
+- Disable vitest/require-to-throw-message ([0d05e77](https://github.com/ghostdevv/pedantic/commit/0d05e77))
+
+### 🏡 Chore
+
+- Update email ([60b8b8a](https://github.com/ghostdevv/pedantic/commit/60b8b8a))
+- Enable renovate ([f9411c8](https://github.com/ghostdevv/pedantic/commit/f9411c8))
+- Harden ci ([1eb0a7e](https://github.com/ghostdevv/pedantic/commit/1eb0a7e))
+
+#### ⚠️ Breaking Changes
+
+- ⚠️  Update peer deps ([e0859e2](https://github.com/ghostdevv/pedantic/commit/e0859e2))
+- ⚠️  Enable more e18e plugin rules ([2589bae](https://github.com/ghostdevv/pedantic/commit/2589bae))
+
+### ❤️ Contributors
+
+- Willow (GHOST) <git@willow.sh>
+
 ## v0.3.0
 
 [compare changes](https://github.com/ghostdevv/pedantic/compare/v0.2.0...v0.3.0)
