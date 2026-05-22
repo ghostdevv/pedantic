@@ -11,7 +11,7 @@
 		"vitest/no-conditional-tests": "error",
 		"vitest/hoisted-apis-on-top": "warn",
 		"vitest/consistent-vitest-vi": "warn",
-		"jest/require-to-throw-message": "off",
+		"vitest/require-to-throw-message": "off",
 		"jest/valid-title": "off",
 		"jest/valid-describe-callback": "warn",
 		"jest/consistent-test-it": ["warn", { "fn": "it" }],
