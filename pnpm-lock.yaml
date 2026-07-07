@@ -9,16 +9,16 @@ importers:
   .:
     devDependencies:
       '@e18e/eslint-plugin':
-        specifier: ^0.5.1
+        specifier: 0.5.1
         version: 0.5.1(oxlint@1.72.0(oxlint-tsgolint@0.24.0))
       changelogen:
         specifier: 0.6.2
         version: 0.6.2
       oxlint:
-        specifier: ^1.72.0
+        specifier: 1.72.0
         version: 1.72.0(oxlint-tsgolint@0.24.0)
       oxlint-tsgolint:
-        specifier: ^0.24.0
+        specifier: 0.24.0
         version: 0.24.0
 
 packages:
