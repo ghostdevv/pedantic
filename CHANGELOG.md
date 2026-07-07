@@ -1,6 +1,26 @@
 # Changelog
 
 
+## v0.5.0
+
+[compare changes](https://github.com/ghostdevv/pedantic/compare/v0.4.1...v0.5.0)
+
+### 🩹 Fixes
+
+- Too strict and duplicate no-undefined rules ([34ab0b6](https://github.com/ghostdevv/pedantic/commit/34ab0b6))
+
+### 🏡 Chore
+
+- **deps:** ⚠️  Update oxlint and tsgolint ([f6bb3e2](https://github.com/ghostdevv/pedantic/commit/f6bb3e2))
+
+#### ⚠️ Breaking Changes
+
+- **deps:** ⚠️  Update oxlint and tsgolint ([f6bb3e2](https://github.com/ghostdevv/pedantic/commit/f6bb3e2))
+
+### ❤️ Contributors
+
+- Willow (GHOST) <git@willow.sh>
+
 ## v0.4.1
 
 [compare changes](https://github.com/ghostdevv/pedantic/compare/v0.4.0...v0.4.1)
