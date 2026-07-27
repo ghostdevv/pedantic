@@ -245,8 +245,8 @@ packages:
   exsolve@1.1.0:
     resolution: {integrity: sha512-D+42+T12DdIlJM3uepa55qGiL3sYdLBOxIl2ifQCzCHz4c7eiolaHsi3BIqEr7JxBzxv2pYZQX9kw16ziMcEmw==}
 
-  giget@3.3.0:
-    resolution: {integrity: sha512-gzi2D96p+AMfDcmJHGDj3KJ9NRiwvlFAU5yfa3ROwWZmFUjX4P43x3BcyRaOMMLto1vUo7C+86+MFhYTl6Ryiw==}
+  giget@3.3.1:
+    resolution: {integrity: sha512-r+mvuDjrjMpsdw46Kmeydb8bdHm7wOKw8wNBtTndkjbPjgAp5oUJUxRE76wZFknxIPokfWvep2qSXK37aXE6zg==}
     hasBin: true
 
   is-docker@3.0.0:
@@ -267,8 +267,8 @@ packages:
     resolution: {integrity: sha512-AC/7JofJvZGrrneWNaEnJeOLUx+JlGt7tNa0wZiRPT4MY1wmfKjt2+6O2p2uz2+skll8OZZmJMNqeke7kKbNgQ==}
     hasBin: true
 
-  module-replacements@3.0.0:
-    resolution: {integrity: sha512-tHIZqde+RlyNRobAIjfcH5UIgIrEbZbDGRL6J/x+HERX/g8O9mrm0p6knJbsTXmQtDvZ+eFP+xfOP3/9jHk6YA==}
+  module-replacements@3.1.0:
+    resolution: {integrity: sha512-MSTNGqlp2q0seRlrAA/FK3SUkGnmPeexeKWuCjeJ7HobD2RCjk4f8ry8lJ+nUQFDVBAHSdC4TdjyJSaocnR7Uw==}
 
   mri@1.2.0:
     resolution: {integrity: sha512-tzzskb3bG8LvYGFF/mDTpq3jpI6Q9wc3LEmBaghu+DdCssd1FakN7Bc0hVNmEyGq1bq3RgfkCb3cmQLpNPOroA==}
@@ -347,7 +347,7 @@ snapshots:
   '@e18e/eslint-plugin@0.5.1(oxlint@1.72.0(oxlint-tsgolint@0.24.0))':
     dependencies:
       empathic: 2.0.1
-      module-replacements: 3.0.0
+      module-replacements: 3.1.0
       semver: 7.8.5
     optionalDependencies:
       oxlint: 1.72.0(oxlint-tsgolint@0.24.0)
@@ -438,7 +438,7 @@ snapshots:
       defu: 6.1.7
       dotenv: 17.4.2
       exsolve: 1.1.0
-      giget: 3.3.0
+      giget: 3.3.1
       jiti: 2.7.0
       ohash: 2.0.11
       pathe: 2.0.3
@@ -493,7 +493,7 @@ snapshots:
 
   exsolve@1.1.0: {}
 
-  giget@3.3.0: {}
+  giget@3.3.1: {}
 
   is-docker@3.0.0: {}
 
@@ -507,7 +507,7 @@ snapshots:
 
   jiti@2.7.0: {}
 
-  module-replacements@3.0.0: {}
+  module-replacements@3.1.0: {}
 
   mri@1.2.0: {}
 
