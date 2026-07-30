@@ -1,0 +1,10 @@
+{
+	"$schema": "./node_modules/oxlint/configuration_schema.json",
+	"extends": [
+		"./oxlint/core.json",
+		"./oxlint/e18e.json",
+		"./oxlint/type-aware.json",
+		"./oxlint/vitest.json",
+		"./oxlint/library.json"
+	]
+}
