@@ -1,6 +1,23 @@
 # Changelog
 
 
+## v0.6.0
+
+[compare changes](https://github.com/ghostdevv/pedantic/compare/v0.5.0...v0.6.0)
+
+### 🏡 Chore
+
+- **deps:** ⚠️  Update oxlint, tsgolint, and e18e plugin ([a56b2dd](https://github.com/ghostdevv/pedantic/commit/a56b2dd))
+- Add oxlint config ([afdae8e](https://github.com/ghostdevv/pedantic/commit/afdae8e))
+
+#### ⚠️ Breaking Changes
+
+- **deps:** ⚠️  Update oxlint, tsgolint, and e18e plugin ([a56b2dd](https://github.com/ghostdevv/pedantic/commit/a56b2dd))
+
+### ❤️ Contributors
+
+- Willow (GHOST) <git@willow.sh>
+
 ## v0.5.0
 
 [compare changes](https://github.com/ghostdevv/pedantic/compare/v0.4.1...v0.5.0)
