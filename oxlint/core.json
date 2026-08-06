@@ -139,7 +139,7 @@
 		"typescript/no-confusing-non-null-assertion": "warn",
 		"typescript/consistent-type-imports": "warn",
 		"typescript/consistent-type-definitions": ["warn", "interface"],
-		"typescript/consistent-generic-constructors": ["error", "type-annotation"],
+		"typescript/consistent-generic-constructors": ["error", "constructor"],
 		"typescript/ban-types": "error",
 		"typescript/array-type": ["error", { "default": "array" }],
 		"unicorn/throw-new-error": "error",
