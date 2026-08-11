@@ -1,6 +1,26 @@
 # Changelog
 
 
+## v0.7.0
+
+[compare changes](https://github.com/ghostdevv/pedantic/compare/v0.6.0...v0.7.0)
+
+### 🩹 Fixes
+
+- Typescript/consistent-generic-constructors rule ([694d1ca](https://github.com/ghostdevv/pedantic/commit/694d1ca))
+
+### 🏡 Chore
+
+- **deps:** ⚠️  Update oxlint and e18e eslint plugin ([a660db1](https://github.com/ghostdevv/pedantic/commit/a660db1))
+
+#### ⚠️ Breaking Changes
+
+- **deps:** ⚠️  Update oxlint and e18e eslint plugin ([a660db1](https://github.com/ghostdevv/pedantic/commit/a660db1))
+
+### ❤️ Contributors
+
+- Willow (GHOST) <git@willow.sh>
+
 ## v0.6.0
 
 [compare changes](https://github.com/ghostdevv/pedantic/compare/v0.5.0...v0.6.0)
