@@ -24,14 +24,14 @@
 		"release": "changelogen --release"
 	},
 	"devDependencies": {
-		"@e18e/eslint-plugin": "0.6.0",
+		"@e18e/eslint-plugin": "0.8.0",
 		"changelogen": "0.6.2",
-		"oxlint": "1.76.0",
+		"oxlint": "1.77.0",
 		"oxlint-tsgolint": "7.0.2001"
 	},
 	"peerDependencies": {
-		"@e18e/eslint-plugin": "^0.6.0",
-		"oxlint": "1.76.0",
+		"@e18e/eslint-plugin": "^0.6.0 || ^0.8.0",
+		"oxlint": "1.77.0",
 		"oxlint-tsgolint": "7.0.2001"
 	},
 	"peerDependenciesMeta": {
