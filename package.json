@@ -26,12 +26,12 @@
 	"devDependencies": {
 		"@e18e/eslint-plugin": "0.8.0",
 		"changelogen": "0.6.2",
-		"oxlint": "1.78.0",
+		"oxlint": "1.79.0",
 		"oxlint-tsgolint": "7.0.2001"
 	},
 	"peerDependencies": {
 		"@e18e/eslint-plugin": "^0.8.0",
-		"oxlint": "1.78.0",
+		"oxlint": "1.79.0",
 		"oxlint-tsgolint": "7.0.2001"
 	},
 	"peerDependenciesMeta": {
