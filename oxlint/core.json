@@ -16,7 +16,7 @@
 		"eslint/default-case": "error",
 		"eslint/default-case-last": "error",
 		"eslint/default-param-last": "error",
-		"eslint/func-names": "error",
+		"eslint/func-names": ["error", "as-needed", { "generators": "never" }],
 		"eslint/getter-return": "error",
 		"eslint/new-cap": "error",
 		"eslint/no-alert": "warn",
