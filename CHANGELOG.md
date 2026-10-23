@@ -1,6 +1,30 @@
 # Changelog
 
 
+## v0.8.0
+
+[compare changes](https://github.com/ghostdevv/pedantic/compare/v0.7.0...v0.8.0)
+
+### 🩹 Fixes
+
+- Add node 26 and greater to engines ([aa1d04c](https://github.com/ghostdevv/pedantic/commit/aa1d04c))
+- Kebab case shouldn't be enforced on Svelte files ([2407ccb](https://github.com/ghostdevv/pedantic/commit/2407ccb))
+- Disable vitest/valid-title ([e3f069e](https://github.com/ghostdevv/pedantic/commit/e3f069e))
+- Relax eslint/func-names ([ec95723](https://github.com/ghostdevv/pedantic/commit/ec95723))
+- Disable vitest/prefer-to-be-truthy/falsy ([5ce8390](https://github.com/ghostdevv/pedantic/commit/5ce8390))
+
+### 🏡 Chore
+
+- **deps:** ⚠️  Update oxlint, tsgolint, and e18e plugin ([793a807](https://github.com/ghostdevv/pedantic/commit/793a807))
+
+#### ⚠️ Breaking Changes
+
+- **deps:** ⚠️  Update oxlint, tsgolint, and e18e plugin ([793a807](https://github.com/ghostdevv/pedantic/commit/793a807))
+
+### ❤️ Contributors
+
+- Willow (GHOST) <git@willow.sh>
+
 ## v0.7.0
 
 [compare changes](https://github.com/ghostdevv/pedantic/compare/v0.6.0...v0.7.0)
