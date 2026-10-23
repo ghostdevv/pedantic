@@ -3,8 +3,8 @@
 	"plugins": ["vitest", "jest"],
 	"rules": {
 		"vitest/require-local-test-context-for-concurrent-snapshots": "error",
-		"vitest/prefer-to-be-truthy": "warn",
-		"vitest/prefer-to-be-falsy": "warn",
+		"vitest/prefer-to-be-truthy": "off",
+		"vitest/prefer-to-be-falsy": "off",
 		"vitest/prefer-to-be-object": "warn",
 		"vitest/prefer-describe-function-title": "warn",
 		"vitest/no-import-node-test": "error",
