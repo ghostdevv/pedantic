@@ -13,6 +13,7 @@
 		"vitest/consistent-vitest-vi": "warn",
 		"vitest/require-to-throw-message": "off",
 		"jest/require-to-throw-message": "off",
+		"vitest/valid-title": "off",
 		"jest/valid-title": "off",
 		"jest/valid-describe-callback": "warn",
 		"jest/consistent-test-it": ["warn", { "fn": "it" }],
