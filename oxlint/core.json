@@ -229,7 +229,10 @@
 		"unicorn/no-accessor-recursion": "warn",
 		"unicorn/no-abusive-eslint-disable": "error",
 		"unicorn/new-for-builtins": "warn",
-		"unicorn/filename-case": ["warn", { "case": "kebabCase" }],
+		"unicorn/filename-case": [
+			"warn",
+			{ "case": "kebabCase", "ignore": ["^*.svelte$"] }
+		],
 		"unicorn/escape-case": "warn",
 		"unicorn/error-message": "error",
 		"unicorn/consistent-function-scoping": "error",
