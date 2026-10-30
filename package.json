@@ -26,8 +26,8 @@
 	"devDependencies": {
 		"@e18e/eslint-plugin": "0.8.1",
 		"changelogen": "0.6.2",
-		"oxlint": "1.89.0",
-		"oxlint-tsgolint": "7.0.2004"
+		"oxlint": "1.90.0",
+		"oxlint-tsgolint": "7.0.2005"
 	},
 	"peerDependencies": {
 		"@e18e/eslint-plugin": "^0.8.1",
